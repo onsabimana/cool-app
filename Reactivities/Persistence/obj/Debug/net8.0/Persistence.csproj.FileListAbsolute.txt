@@ -1,0 +1,15 @@
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/mac/personal-dev/cool-app/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll

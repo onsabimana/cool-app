@@ -1,0 +1,11 @@
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/mac/personal-dev/cool-app/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll

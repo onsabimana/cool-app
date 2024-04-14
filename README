@@ -1,0 +1,29 @@
+
+### Stack
+
+- .Net 8
+- React
+- MobX for state management
+
+### backend
+- Entity Framework
+- SQLite
+
+
+### App checklist
+
+[] Add http requests
+[] Add domain entity
+[] Add Entity Framework and DbContext
+[] Add EF code first migration
+[] Add database
+[] Seeding database
+[] Add API Controller
+
+### Running App
+
+- dotnet run 
+
+### Updates on new app 
+- Change port to 5000
+- Remove 

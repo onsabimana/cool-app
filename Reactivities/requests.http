@@ -1,0 +1,10 @@
+@API_URL = http://localhost:5000/api
+@activityId=062494f3-e62f-494e-aa5b-26600c730e82
+
+GET {{API_URL}}/weatherforecast
+
+### List Activities
+GET {{API_URL}}/activities
+
+### Get Activity
+GET {{API_URL}}/activities/{{activityId}}
